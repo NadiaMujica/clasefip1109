@@ -4,5 +4,5 @@
 ## Integrantes:
  * Maximo Diodato
  * Braian Bortolotti
- * Nicola Dume
+ * Nicolas Dume
  * Nadia Mujica

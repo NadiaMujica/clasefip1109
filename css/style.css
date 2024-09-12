@@ -1,0 +1,18 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.oculto {
+  visibility: hidden;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.imageContainer {
+  height: 300px;
+  width: 300px;
+}

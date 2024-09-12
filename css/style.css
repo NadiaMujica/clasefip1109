@@ -17,3 +17,11 @@ section{
     width: 300px;
 }
 
+.footertext{
+background-color: rgba(27, 27, 25, 0.233);
+color: white;
+}
+
+.footertext:hover{
+    background-color: rgba(72, 72, 179, 0.637);
+}
